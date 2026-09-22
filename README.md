@@ -12,5 +12,7 @@ This project aims to make it as easy as possible to get a System One model up an
 
 - [Jev Tutorial](https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e)
 
+- [Jev Agent as Evaluator](https://www.langchain.com/blog/jev-agent-evals-langsmith)
+
 - [game that uses System One model for AI](https://github.com/studioigor/jev-rts)
 
